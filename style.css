@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  color: darkgoldenrod;
+  margin-top: 20px;
+}
+nav ul {
+  background-color: rgb(157, 161, 113);
+  padding: 0;
+  margin: 0;
+}
+nav li {
+  display: inline-block;
+  margin-right: 10%;
+  width: 10%;
+}
+main {
+  background-color: rgb(224, 149, 178);
+}
